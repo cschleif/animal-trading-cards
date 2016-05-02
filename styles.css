@@ -1,0 +1,49 @@
+.title {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: sans-serif;
+}
+
+.facts {
+  font-family: sans-serif;
+  font-size: 25px;
+  border-style: solid;
+  border-color: rgb(206,206,206);
+  padding: 10px;
+
+}
+
+.facts .feature {
+  font-weight: bold;
+}
+
+.facts .stat {
+  font-style: italic;
+}
+
+.intro {
+  font-style: italic;
+
+}
+
+ body {
+  border-style: solid;
+  border-color: rgb(206,206,206);
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  margin: auto;
+  width: 650px;
+  box-shadow:0px 5px 21px rgb(195,195,195)
+  
+}
+
+img {
+  width: 650px;
+  padding-bottom: 25px;
+}
+
+ul {
+  padding-left: 0px;
+}
+
